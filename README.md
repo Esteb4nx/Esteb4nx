@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Esparza</h1>
-<h3 align="center"></h3>
+<h3 align="center">Computer Engineering Student from Temuco, Chile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteb4nx&label=Profile%20views&color=0e75b6&style=flat" alt="esteb4nx" /> </p>
 
