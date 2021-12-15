@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteb4nx&label=Profile%20views&color=0e75b6&style=flat" alt="esteb4nx" /> </p>
 
-- 🔭 I’m currently working on [Chilesource](https://github.com/Esteb4nx/Chilesource)
+- 🔭 I’m currently working on [Chilesource](https://github.com/Esteb4nx/Chilesource) and [EzShop](https://github.com/jmainhard/ezshop)
 
 - 🌱 I’m currently learning **Spring boot and AWS**
 
